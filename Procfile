@@ -1,1 +1,1 @@
-worker: python -m tobrot
+worker: /bin/sh -c bash\ start.sh
